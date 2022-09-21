@@ -1,0 +1,16 @@
+{
+  "name": "js-utils",
+  "version": "1.0.0",
+  "description": "utility tools for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "util",
+    "utils",
+    "utility"
+  ],
+  "author": "lpvmlv",
+  "license": "ISC"
+}
