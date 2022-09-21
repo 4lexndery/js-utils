@@ -10,3 +10,8 @@ let i = jutil.lst('hello world','o')
 
 console.log(i)
 ```
+
+output:
+```
+[ 'hell',' w','rld' ]
+```
