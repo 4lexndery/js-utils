@@ -1,5 +1,5 @@
 # Installation
-`npm install js-utils`
+`npm install git+github:4lexndery/js-utils#dev`
 # Usage
 ```js
 const {Func} = require('js-utils')
