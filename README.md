@@ -2,10 +2,9 @@
 `npm install js-utils`
 # Usage
 ```js
-const {Func} = require('js-utils')
-const f = new Func
+const jutil = require('js-utils')
 
-let i = f.lst('hello world','o')
+let i = jutil.lst('hello world','o')
 //                               ^
 //                  this is optional
 
